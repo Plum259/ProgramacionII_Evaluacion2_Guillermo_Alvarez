@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Ev2</string>
+    <string name="shopping_list">Lista de compras</string>
+    <string name="Product">Producto</string>
+    <string name="Settings">Configuración</string>
+    <string name="OrderA">Ordenar alfabéticamente</string>
+    <string name="OrderToBuy">Mostrar primero ítems por comprar</string>
+
+    <string name="add">añadir</string>
+    <string name="delete">borrar</string>
+    <string name="back">atras</string>
+</resources>

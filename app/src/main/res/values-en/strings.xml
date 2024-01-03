@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string name="app_name">Ev2</string>
+        <string name="shopping_list">Shopping List</string>
+        <string name="Product">Product</string>
+        <string name="Settings">Settings</string>
+        <string name="OrderA">Order alphabetically</string>
+        <string name="OrderToBuy">Show items to buy first</string>
+
+        <string name="add">add</string>
+        <string name="delete">delete</string>
+        <string name="back">back</string>
+</resources>
